@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="204.80962mm"
+   height="120.78214mm"
+   viewBox="0 0 204.80962 120.78214"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="where.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.7158904"
+     inkscape:cx="256.42664"
+     inkscape:cy="386.97111"
+     inkscape:window-width="3840"
+     inkscape:window-height="2107"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:clip-to-page="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.332884,-27.967858)">
+    <g
+       id="g11">
+      <path
+         id="rect1"
+         style="fill:none;stroke:#aad400;stroke-width:0.8;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 31.850769,44.904236 v 39.6906 h 57.82076 22.377441 V 64.599674 H 89.671529 V 44.904236 Z" />
+      <g
+         id="g9"
+         transform="translate(2.0610313)">
+        <path
+           id="path2"
+           style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 122.99248,44.904236 v 39.6906 h 57.82076 22.37744 V 64.599674 H 180.81324 V 44.904236 Z" />
+        <path
+           style="fill:none;stroke:#aad400;stroke-width:0.8;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0"
+           d="M 180.81324,44.904236 V 64.599674"
+           id="path3" />
+        <path
+           style="fill:none;stroke:#aad400;stroke-width:0.8;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 203.19068,64.599674 v 19.99516"
+           id="path4" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0"
+         x="54.06403"
+         y="76.06842"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke:none;stroke-width:0.5"
+           x="54.06403"
+           y="76.06842">everywhere</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0"
+         x="133.79948"
+         y="76.920296"
+         id="text6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke:none;stroke-width:0.5"
+           x="133.79948"
+           y="76.920296"
+           id="tspan8">for a given direction</tspan></text>
+    </g>
+    <g
+       id="g12"
+       transform="translate(1.1783212)">
+      <g
+         id="g10">
+        <path
+           id="rect1-0"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 77.273818,97.33845 v 39.6906 h 57.820762 22.37744 V 117.03389 H 135.09458 V 97.33845 Z" />
+        <path
+           style="fill:none;stroke:#aad400;stroke-width:0.8;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 101.07518,137.02905 h 34.0194"
+           id="path5"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0"
+         x="99.063751"
+         y="129.19272"
+         id="text9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke:none;stroke-width:0.5"
+           x="99.063751"
+           y="129.19272"
+           id="tspan9">for a region</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.499999;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect12"
+       width="204.30962"
+       height="120.28214"
+       x="19.582884"
+       y="28.217857" />
+  </g>
+</svg>
